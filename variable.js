@@ -15,5 +15,5 @@ console.log(data);
 angka=8;
 console.log(angka);
 
-let isi=4;
+let isi="belajar";
 console.log(typeof isi);
